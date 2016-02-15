@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FastCocktail</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_dialeg_esb">DialegEsb</string>
+    <string name="title_activity_dialeg_opcions">DialegOpcions</string>
+    <string name="title_activity_dialeg_predeterminats">DialegPredeterminats</string>
+    <string name="title_activity_comandes">ComandesActivity</string>
+</resources>

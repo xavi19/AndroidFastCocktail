@@ -1,0 +1,64 @@
+1,ron,bacardi,3,bacardi
+2,ron,barcelo,4,ron_barcelo
+3,ron,habana club7,6,havana_7
+4,ron,matusalem,8,ron_matusalem
+5,ron,habana club3,4,havana_3
+6,ron,habana club5,5,havana_5
+7,whisky,ballantines,4,ballantines
+8,whisky,jb,4,jb
+9,whisky,jack daniel's,6,jack_daniels
+10,whisky,cutty shark,6,cutty_shark
+11,whisky,johnnie walker,5,johnnie_walker
+12,whisky,four rouses,6,four_rouses
+13,whisky,gran duque de alba,11,duque_alba
+14,ginebra,cittadelle,6,citadelle
+15,ginebra,bombay,5,bombay_saphire
+16,ginebra,london n1,7.5,london_n1
+17,ginebra,mombasa,6.5,mombasa
+18,ginebra,larios,4.5,larios
+19,ginebra,gordons,4,gordons
+20,vodka,smirnoff,4,smirnoff
+21,vodka,knebep,2.5,knebep
+22,vodka,absolut,4.5,absolut
+23,vodka,ciroc,7,ciroc
+24,absenta,tunel,4,absinta_tunel
+25,absenta,lehmann,5.5,absinta_lehmann
+26,absenta,jacques senaux,8,jacques_senaux
+27,refresc,coca-cola,1.5,cocacola
+28,refresc,fanta taronja,1.5,fanta_taronja
+29,refresc,fanta llima,1.5,fantallim
+30,refresc,nestea,1.5,nestea
+31,refresc,grosella,2.5,grosella
+32,refresc,granadina,3,granadina
+33,refresc,bitter kas,1.5,bitterkas
+34,refresc,schweppes pimienta rosa,2,schweppes_pimienta
+35,refresc,schweppes premium,2.5,schweppes_pimienta
+36,refresc,tonica schweppes,1.5,tonica_schweppes
+37,refresc,tonica nordic,1.5,nordic_tonica
+38,refresc,aquarius,1.7,aquarius
+39,refresc,aigua,1,aigua
+40,refresc,redbull,2,redbull
+41,refresc,burn,2,burn
+42,refresc,monster,2.5,monster
+43,refresc,aquarius taronja,1.5,aquarius_taronja
+44,vermout,martini rosato,2.5,martini_rosato
+45,vermout,martini bianco,2.5,martini_bianco
+46,vermout,martini extra dry,2.5,martini_extra
+47,vermout,martini rosso,2.5,martini_rosso
+48,vermout,martini royale,2.5,martini_royale
+49,licor,licor arros,2.5,licor_arros
+50,licor,ruavieja herbes,2,ruavieja_herbes
+51,licor,ruavieja crema,2,ruavieja_crema
+52,licor,ruavieja orujo,2,ruavieja_orujo
+53,licor,ruavieja pacharan,2,ruavieja_pacharan
+54,licor,ruavieja cafe,2,ruavieja_cafe
+55,licor,licor cirera,2,licor_cirera
+56,licor,jagermeister,1.5,jagermeister
+57,whisky,grant's,15,grants
+58,whisky,chivas regal 12,12,chivas_regal
+59,whisky,dalmore,99,dalmore
+60,whisky,balvenie,18,balvenie
+61,anis,marie brizard,4,marie_bizard
+62,anis,anis del mono,2.5,anis_del_mono
+63,anis,la cordobesa,2.5,cordobesa
+64,anis,la castellana,2,castellana
